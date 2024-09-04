@@ -32,12 +32,12 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 My Passion'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        Driven by a deep passion for leveraging technology to improve lives, I’m particularly fascinated by AI and machine learning.
+        
+        Currently, I’m channeling this passion into building a startup aimed at reshaping the job application process, making it more intuitive and empowering for job seekers.
         
         Please reach out to collaborate 😃
     design:
