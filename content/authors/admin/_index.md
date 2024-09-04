@@ -100,7 +100,7 @@ skills:
       - name: Philosophy
         description: ''
         percent: 100
-        icon: custom/brain
+        icon: assets/media/icons/custom/
       - name: Rock Climbing
         description: ''
         percent: 60
