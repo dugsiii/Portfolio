@@ -104,7 +104,7 @@ skills:
       - name: Rock Climbing
         description: ''
         percent: 60
-        icon: chart-bar
+        icon: "custom/rockclimbing"
       - name: Hiking
         description: ''
         percent: 60
