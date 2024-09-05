@@ -48,7 +48,7 @@ sections:
       title: 'Featured Project'
       filters:
         folders:
-          -   
+          - publication
         featured_only: true
     design:
       view: article-grid
